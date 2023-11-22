@@ -4,4 +4,21 @@ body{
 
 h1 {
   font-family: 'Inter', sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
 }
+
+h1 span {
+  font-weight: bold;
+}
+
+p{
+  color: #7D7987;
+}
+
+span, a{
+  color: #FF9900;
+}
+
+
